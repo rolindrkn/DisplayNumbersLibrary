@@ -1,0 +1,11 @@
+C:\Users\Rosalind\source\repos\DisplayNumbers\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Rosalind\source\repos\DisplayNumbers\ClassLibrary1\bin\Debug\nunit.framework.dll
+C:\Users\Rosalind\source\repos\DisplayNumbers\ClassLibrary1\bin\Debug\Rhino.Mocks.dll
+C:\Users\Rosalind\source\repos\DisplayNumbers\ClassLibrary1\bin\Debug\DisplayNumbersLibrary.dll
+C:\Users\Rosalind\source\repos\DisplayNumbers\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Rosalind\source\repos\DisplayNumbers\ClassLibrary1\bin\Debug\nunit.framework.pdb
+C:\Users\Rosalind\source\repos\DisplayNumbers\ClassLibrary1\bin\Debug\DisplayNumbersLibrary.pdb
+C:\Users\Rosalind\source\repos\DisplayNumbers\ClassLibrary1\obj\Debug\Tests.csprojAssemblyReference.cache
+C:\Users\Rosalind\source\repos\DisplayNumbers\ClassLibrary1\obj\Debug\Tests.csproj.CopyComplete
+C:\Users\Rosalind\source\repos\DisplayNumbers\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Rosalind\source\repos\DisplayNumbers\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

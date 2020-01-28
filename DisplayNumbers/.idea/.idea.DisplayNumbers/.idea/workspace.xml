@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc837b77-73dd-4727-9959-71e21bf9e39a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ClassLibrary1/DisplayNumbersWithDefaultOptionsTaskSpecs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/nunit/nunit/c933a883ea25263ec575a654dae69fa38000edd9/src/NUnitFramework/framework/Internal/Reflect.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DisplayNumbersLibrary/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ClassLibrary1/App.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/nunit/nunit/c933a883ea25263ec575a654dae69fa38000edd9/src/NUnitFramework/framework/Internal/Execution/SimpleWorkItem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/nunit/nunit/c933a883ea25263ec575a654dae69fa38000edd9/src/NUnitFramework/framework/Internal/Execution/WorkItem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ClassLibrary1/DisplayNumbersWithCustomOptionsTaskSpecs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/nunit/nunit/c933a883ea25263ec575a654dae69fa38000edd9/src/NUnitFramework/framework/Internal/Execution/CompositeWorkItem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/227DBB94-8077-429F-B5F2-00AA2DAB623E/23/d89a91c9/AppConfig.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BE0E2B70-CA25-4BB6-8441-7CCCEA7D5290/ac/cf26e808/Reflect.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/nunit/nunit/c933a883ea25263ec575a654dae69fa38000edd9/src/NUnitFramework/framework/Internal/Execution/ParallelWorkItemDispatcher.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DisplayNumbersLibrary/DisplayNumbersWithCustomOptionsTask.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ClassLibrary1/TestArrangement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DisplayNumbersLibrary/DisplayNumbers.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DisplayNumbersLibrary/DisplayNumbersWithDefaultOptionsTask.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/metadata/82CA8CB8-9D1A-481B-ADC1-6322E06A8F03/46/2165b1ac/System.Xml.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ClassLibrary1/DisplayNumbersLibrarySpecs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BA0DAC83-1D00-4D16-ABB3-DA2D502DBBD8/cf/4d29d9d0/Int32.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ED4F3FF4-3588-49AD-BC4C-FF193998E298/7e/a8b1ebb9/RhinoMocksExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ClassLibrary1/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ClassLibrary1/DisplayNumbersWithDefaultOptionsTaskSpecs.cs" />
+        <option value="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/metadata/82CA8CB8-9D1A-481B-ADC1-6322E06A8F03/46/2165b1ac/System.Xml.cs" />
+        <option value="$PROJECT_DIR$/ClassLibrary1/DisplayNumbersWithCustomOptionsTaskSpecs.cs" />
+        <option value="$PROJECT_DIR$/DisplayNumbersLibrary/DisplayNumbersWithDefaultOptionsTask.cs" />
+        <option value="$PROJECT_DIR$/DisplayNumbersLibrary/DisplayNumbers.cs" />
+        <option value="$PROJECT_DIR$/DisplayNumbersLibrary/DisplayNumbersWithCustomOptionsTask.cs" />
+        <option value="$PROJECT_DIR$/ClassLibrary1/Tests.csproj" />
+        <option value="$PROJECT_DIR$/DisplayNumbersLibrary/DisplayNumbersLibrary.csproj" />
+        <option value="$PROJECT_DIR$/ClassLibrary1/DisplayNumbersLibrarySpecs.cs" />
+        <option value="$PROJECT_DIR$/DisplayNumbersLibrary/app.config" />
+        <option value="$PROJECT_DIR$/ClassLibrary1/App.config" />
+        <option value="$PROJECT_DIR$/SharedProject1/Class1.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WrnRt3zvZyp7CTnt7vAjkYsqKO" />
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc837b77-73dd-4727-9959-71e21bf9e39a" name="Default Changelist" comment="" />
+      <created>1579929369947</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579929369947</updated>
+      <workItem from="1579929373584" duration="315000" />
+      <workItem from="1579930879579" duration="3774000" />
+      <workItem from="1580062501330" duration="24263000" />
+      <workItem from="1580169902834" duration="317000" />
+      <workItem from="1580170300611" duration="2589000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnitTestsCoverage.Settings">
+    <option name="coveragePercentColumnWidth" value="188" />
+    <option name="sortOrder" value="DESCENDING" />
+    <option name="sortedColumn" value="1" />
+    <option name="symbolColumnWidth" value="149" />
+    <coverage-tree-state>
+      <expand>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="1" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+      </expand>
+      <select />
+    </coverage-tree-state>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/ClassLibrary1/DisplayNumbersLibrarySpecs.cs</url>
+          <line>87</line>
+          <properties documentPath="$PROJECT_DIR$/ClassLibrary1/DisplayNumbersLibrarySpecs.cs" initialLine="87">
+            <startOffsets>
+              <option value="3201" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3202" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/ClassLibrary1/DisplayNumbersLibrarySpecs.cs</url>
+          <line>90</line>
+          <properties documentPath="$PROJECT_DIR$/ClassLibrary1/DisplayNumbersLibrarySpecs.cs" initialLine="90">
+            <startOffsets>
+              <option value="3365" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3366" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/ClassLibrary1/DisplayNumbersLibrarySpecs.cs</url>
+          <line>88</line>
+          <properties documentPath="$PROJECT_DIR$/ClassLibrary1/DisplayNumbersLibrarySpecs.cs" initialLine="88">
+            <startOffsets>
+              <option value="3219" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3230" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/ClassLibrary1/DisplayNumbersLibrarySpecs.cs</url>
+          <line>89</line>
+          <properties documentPath="$PROJECT_DIR$/ClassLibrary1/DisplayNumbersLibrarySpecs.cs" initialLine="89">
+            <startOffsets>
+              <option value="3248" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3352" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/DisplayNumbersLibrary/DisplayNumbersWithCustomOptionsTask.cs</url>
+          <line>16</line>
+          <properties documentPath="$PROJECT_DIR$/DisplayNumbersLibrary/DisplayNumbersWithCustomOptionsTask.cs" initialLine="16">
+            <startOffsets>
+              <option value="531" />
+            </startOffsets>
+            <endOffsets>
+              <option value="532" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/ClassLibrary1/DisplayNumbersLibrarySpecs.cs</url>
+          <line>185</line>
+          <properties documentPath="$PROJECT_DIR$/ClassLibrary1/DisplayNumbersLibrarySpecs.cs" initialLine="185">
+            <startOffsets>
+              <option value="7271" />
+            </startOffsets>
+            <endOffsets>
+              <option value="7272" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/DisplayNumbersLibrary/DisplayNumbersWithCustomOptionsTask.cs</url>
+          <line>38</line>
+          <properties documentPath="$PROJECT_DIR$/DisplayNumbersLibrary/DisplayNumbersWithCustomOptionsTask.cs" initialLine="38">
+            <startOffsets>
+              <option value="1137" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1159" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
