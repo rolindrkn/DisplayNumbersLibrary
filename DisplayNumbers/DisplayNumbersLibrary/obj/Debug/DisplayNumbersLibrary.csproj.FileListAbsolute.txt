@@ -2,3 +2,8 @@ C:\Users\Rosalind\source\repos\DisplayNumbers\DisplayNumbersLibrary\bin\Debug\Di
 C:\Users\Rosalind\source\repos\DisplayNumbers\DisplayNumbersLibrary\bin\Debug\DisplayNumbersLibrary.pdb
 C:\Users\Rosalind\source\repos\DisplayNumbers\DisplayNumbersLibrary\obj\Debug\DisplayNumbersLibrary.dll
 C:\Users\Rosalind\source\repos\DisplayNumbers\DisplayNumbersLibrary\obj\Debug\DisplayNumbersLibrary.pdb
+C:\dev\DisplayNumbersLibrary\DisplayNumbers\DisplayNumbersLibrary\bin\Debug\DisplayNumbersLibrary.dll
+C:\dev\DisplayNumbersLibrary\DisplayNumbers\DisplayNumbersLibrary\bin\Debug\DisplayNumbersLibrary.pdb
+C:\dev\DisplayNumbersLibrary\DisplayNumbers\DisplayNumbersLibrary\obj\Debug\DisplayNumbersLibrary.csprojAssemblyReference.cache
+C:\dev\DisplayNumbersLibrary\DisplayNumbers\DisplayNumbersLibrary\obj\Debug\DisplayNumbersLibrary.dll
+C:\dev\DisplayNumbersLibrary\DisplayNumbers\DisplayNumbersLibrary\obj\Debug\DisplayNumbersLibrary.pdb

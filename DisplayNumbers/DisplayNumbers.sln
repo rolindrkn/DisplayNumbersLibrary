@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.29326.143
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisplayNumbersLibrary", "DisplayNumbersLibrary\DisplayNumbersLibrary.csproj", "{F877A5A9-11D9-482E-B4FD-B67D644AEF4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "ClassLibrary1\Tests.csproj", "{B54955B5-AD25-4E72-BB98-FBE7D6AB2275}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "TestDisplayNumbersLibrary\Tests.csproj", "{B54955B5-AD25-4E72-BB98-FBE7D6AB2275}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "TestDisplayNumbersLibrary\Tests.csproj", "{B54955B5-AD25-4E72-BB98-FBE7D6AB2275}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

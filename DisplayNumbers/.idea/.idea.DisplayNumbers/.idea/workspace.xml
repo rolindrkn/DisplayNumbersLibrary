@@ -1,34 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc837b77-73dd-4727-9959-71e21bf9e39a" name="Default Changelist" comment="" />
+    <list default="true" id="dc837b77-73dd-4727-9959-71e21bf9e39a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/DisplayNumbersLibrary/DisplayNumbersLibrary.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DisplayNumbers/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DisplayNumbers/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.DisplayNumbers/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.DisplayNumbers/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DisplayNumbers.sln" beforeDir="false" afterPath="$PROJECT_DIR$/DisplayNumbers.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DisplayNumbers.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/DisplayNumbers.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DisplayNumbersLibrary/DisplayNumbers.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DisplayNumbersLibrary/DisplayNumbersLibrary.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/DisplayNumbersLibrary/DisplayNumbersLibrary.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DisplayNumbersLibrary/DisplayNumbersWithCustomOptionsTask.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DisplayNumbersLibrary/DisplayNumbersWithCustomOptionsTask.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DisplayNumbersLibrary/DisplayNumbersWithDefaultOptionsTask.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DisplayNumbersLibrary/DisplayNumbersWithDefaultOptionsTask.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DisplayNumbersLibrary/bin/Debug/DisplayNumbersLibrary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DisplayNumbersLibrary/bin/Debug/DisplayNumbersLibrary.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DisplayNumbersLibrary/bin/Debug/DisplayNumbersLibrary.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DisplayNumbersLibrary/bin/Debug/DisplayNumbersLibrary.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DisplayNumbersLibrary/obj/Debug/DisplayNumbersLibrary.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DisplayNumbersLibrary/obj/Debug/DisplayNumbersLibrary.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DisplayNumbersLibrary/obj/Debug/DisplayNumbersLibrary.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/DisplayNumbersLibrary/obj/Debug/DisplayNumbersLibrary.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DisplayNumbersLibrary/obj/Debug/DisplayNumbersLibrary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/DisplayNumbersLibrary/obj/Debug/DisplayNumbersLibrary.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DisplayNumbersLibrary/obj/Debug/DisplayNumbersLibrary.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/DisplayNumbersLibrary/obj/Debug/DisplayNumbersLibrary.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestDisplayNumbersLibrary/DisplayNumbersLibrarySpecs.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestDisplayNumbersLibrary/DisplayNumbersLibrarySpecs.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestDisplayNumbersLibrary/DisplayNumbersWithCustomOptionsTaskSpecs.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestDisplayNumbersLibrary/DisplayNumbersWithCustomOptionsTaskSpecs.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestDisplayNumbersLibrary/DisplayNumbersWithDefaultOptionsTaskSpecs.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TestDisplayNumbersLibrary/DisplayNumbersWithDefaultOptionsTaskSpecs.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestDisplayNumbersLibrary/bin/Debug/ClassLibrary1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestDisplayNumbersLibrary/bin/Debug/ClassLibrary1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestDisplayNumbersLibrary/bin/Debug/ClassLibrary1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestDisplayNumbersLibrary/bin/Debug/ClassLibrary1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestDisplayNumbersLibrary/bin/Debug/DisplayNumbersLibrary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestDisplayNumbersLibrary/bin/Debug/DisplayNumbersLibrary.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestDisplayNumbersLibrary/bin/Debug/DisplayNumbersLibrary.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestDisplayNumbersLibrary/bin/Debug/DisplayNumbersLibrary.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestDisplayNumbersLibrary/obj/Debug/ClassLibrary1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/TestDisplayNumbersLibrary/obj/Debug/ClassLibrary1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestDisplayNumbersLibrary/obj/Debug/ClassLibrary1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/TestDisplayNumbersLibrary/obj/Debug/ClassLibrary1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestDisplayNumbersLibrary/obj/Debug/Tests.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TestDisplayNumbersLibrary/obj/Debug/Tests.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestDisplayNumbersLibrary/obj/Debug/Tests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestDisplayNumbersLibrary/obj/Debug/Tests.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestDisplayNumbersLibrary/obj/Tests.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/TestDisplayNumbersLibrary/obj/Tests.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestDisplayNumbersLibrary/obj/Tests.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/TestDisplayNumbersLibrary/obj/Tests.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestDisplayNumbersLibrary/obj/Tests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/TestDisplayNumbersLibrary/obj/Tests.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestDisplayNumbersLibrary/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/TestDisplayNumbersLibrary/obj/project.assets.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/ClassLibrary1/DisplayNumbersWithDefaultOptionsTaskSpecs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DisplayNumbersLibrary/DisplayNumbersLibrary.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DisplayNumbersLibrary/DisplayNumbersWithDefaultOptionsTask.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/nunit/nunit/c933a883ea25263ec575a654dae69fa38000edd9/src/NUnitFramework/framework/Internal/Reflect.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DisplayNumbersLibrary/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ClassLibrary1/App.config" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/nunit/nunit/c933a883ea25263ec575a654dae69fa38000edd9/src/NUnitFramework/framework/Internal/Execution/SimpleWorkItem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestDisplayNumbersLibrary/DisplayNumbersWithCustomOptionsTaskSpecs.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/nunit/nunit/c933a883ea25263ec575a654dae69fa38000edd9/src/NUnitFramework/framework/Internal/Execution/WorkItem.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ClassLibrary1/DisplayNumbersWithCustomOptionsTaskSpecs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestDisplayNumbersLibrary/TestArrangement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/nunit/nunit/c933a883ea25263ec575a654dae69fa38000edd9/src/NUnitFramework/framework/Internal/Execution/CompositeWorkItem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestDisplayNumbersLibrary/DisplayNumbersLibrarySpecs.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/227DBB94-8077-429F-B5F2-00AA2DAB623E/23/d89a91c9/AppConfig.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestDisplayNumbersLibrary/DisplayNumbersWithDefaultOptionsTaskSpecs.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BE0E2B70-CA25-4BB6-8441-7CCCEA7D5290/ac/cf26e808/Reflect.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/nunit/nunit/c933a883ea25263ec575a654dae69fa38000edd9/src/NUnitFramework/framework/Internal/Execution/ParallelWorkItemDispatcher.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DisplayNumbersLibrary/DisplayNumbersWithCustomOptionsTask.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ClassLibrary1/TestArrangement.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DisplayNumbersLibrary/DisplayNumbers.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DisplayNumbersLibrary/DisplayNumbersWithDefaultOptionsTask.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DisplayNumbersLibrary/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/metadata/82CA8CB8-9D1A-481B-ADC1-6322E06A8F03/46/2165b1ac/System.Xml.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ClassLibrary1/DisplayNumbersLibrarySpecs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DisplayNumbersLibrary/DisplayNumbersWithCustomOptionsTask.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BA0DAC83-1D00-4D16-ABB3-DA2D502DBBD8/cf/4d29d9d0/Int32.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ED4F3FF4-3588-49AD-BC4C-FF193998E298/7e/a8b1ebb9/RhinoMocksExtensions.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ClassLibrary1/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -36,23 +68,29 @@
         <option value="$PROJECT_DIR$/ClassLibrary1/DisplayNumbersWithDefaultOptionsTaskSpecs.cs" />
         <option value="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/metadata/82CA8CB8-9D1A-481B-ADC1-6322E06A8F03/46/2165b1ac/System.Xml.cs" />
         <option value="$PROJECT_DIR$/ClassLibrary1/DisplayNumbersWithCustomOptionsTaskSpecs.cs" />
-        <option value="$PROJECT_DIR$/DisplayNumbersLibrary/DisplayNumbersWithDefaultOptionsTask.cs" />
-        <option value="$PROJECT_DIR$/DisplayNumbersLibrary/DisplayNumbers.cs" />
-        <option value="$PROJECT_DIR$/DisplayNumbersLibrary/DisplayNumbersWithCustomOptionsTask.cs" />
         <option value="$PROJECT_DIR$/ClassLibrary1/Tests.csproj" />
         <option value="$PROJECT_DIR$/DisplayNumbersLibrary/DisplayNumbersLibrary.csproj" />
         <option value="$PROJECT_DIR$/ClassLibrary1/DisplayNumbersLibrarySpecs.cs" />
         <option value="$PROJECT_DIR$/DisplayNumbersLibrary/app.config" />
         <option value="$PROJECT_DIR$/ClassLibrary1/App.config" />
         <option value="$PROJECT_DIR$/SharedProject1/Class1.cs" />
+        <option value="$PROJECT_DIR$/TestDisplayNumbersLibrary/DisplayNumbersWithCustomOptionsTaskSpecs.cs" />
+        <option value="$PROJECT_DIR$/DisplayNumbersLibrary/DisplayNumbersWithCustomOptionsTask.cs" />
+        <option value="$PROJECT_DIR$/DisplayNumbersLibrary/DisplayNumbers.cs" />
+        <option value="$PROJECT_DIR$/TestDisplayNumbersLibrary/DisplayNumbersWithDefaultOptionsTaskSpecs.cs" />
+        <option value="$PROJECT_DIR$/DisplayNumbersLibrary/DisplayNumbersLibrary.cs" />
+        <option value="$PROJECT_DIR$/DisplayNumbersLibrary/DisplayNumbersWithDefaultOptionsTask.cs" />
+        <option value="$PROJECT_DIR$/TestDisplayNumbersLibrary/DisplayNumbersLibrarySpecs.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1WrnRt3zvZyp7CTnt7vAjkYsqKO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TestDisplayNumbersLibrary/Tests.csproj" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -83,6 +121,7 @@
       <workItem from="1580062501330" duration="24263000" />
       <workItem from="1580169902834" duration="317000" />
       <workItem from="1580170300611" duration="2589000" />
+      <workItem from="1580249164992" duration="19941000" />
     </task>
     <servers />
   </component>
@@ -104,99 +143,101 @@
       <select />
     </coverage-tree-state>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/ClassLibrary1/DisplayNumbersLibrarySpecs.cs</url>
           <line>87</line>
-          <properties documentPath="$PROJECT_DIR$/ClassLibrary1/DisplayNumbersLibrarySpecs.cs" initialLine="87">
-            <startOffsets>
-              <option value="3201" />
-            </startOffsets>
-            <endOffsets>
-              <option value="3202" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="$PROJECT_DIR$/ClassLibrary1/DisplayNumbersLibrarySpecs.cs" initialLine="87" />
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/ClassLibrary1/DisplayNumbersLibrarySpecs.cs</url>
           <line>90</line>
-          <properties documentPath="$PROJECT_DIR$/ClassLibrary1/DisplayNumbersLibrarySpecs.cs" initialLine="90">
-            <startOffsets>
-              <option value="3365" />
-            </startOffsets>
-            <endOffsets>
-              <option value="3366" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="$PROJECT_DIR$/ClassLibrary1/DisplayNumbersLibrarySpecs.cs" initialLine="90" />
           <option name="timeStamp" value="42" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/ClassLibrary1/DisplayNumbersLibrarySpecs.cs</url>
           <line>88</line>
-          <properties documentPath="$PROJECT_DIR$/ClassLibrary1/DisplayNumbersLibrarySpecs.cs" initialLine="88">
-            <startOffsets>
-              <option value="3219" />
-            </startOffsets>
-            <endOffsets>
-              <option value="3230" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="$PROJECT_DIR$/ClassLibrary1/DisplayNumbersLibrarySpecs.cs" initialLine="88" />
           <option name="timeStamp" value="45" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/ClassLibrary1/DisplayNumbersLibrarySpecs.cs</url>
           <line>89</line>
-          <properties documentPath="$PROJECT_DIR$/ClassLibrary1/DisplayNumbersLibrarySpecs.cs" initialLine="89">
-            <startOffsets>
-              <option value="3248" />
-            </startOffsets>
-            <endOffsets>
-              <option value="3352" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="$PROJECT_DIR$/ClassLibrary1/DisplayNumbersLibrarySpecs.cs" initialLine="89" />
           <option name="timeStamp" value="46" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/DisplayNumbersLibrary/DisplayNumbersWithCustomOptionsTask.cs</url>
-          <line>16</line>
-          <properties documentPath="$PROJECT_DIR$/DisplayNumbersLibrary/DisplayNumbersWithCustomOptionsTask.cs" initialLine="16">
-            <startOffsets>
-              <option value="531" />
-            </startOffsets>
-            <endOffsets>
-              <option value="532" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="47" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/ClassLibrary1/DisplayNumbersLibrarySpecs.cs</url>
           <line>185</line>
-          <properties documentPath="$PROJECT_DIR$/ClassLibrary1/DisplayNumbersLibrarySpecs.cs" initialLine="185">
-            <startOffsets>
-              <option value="7271" />
-            </startOffsets>
-            <endOffsets>
-              <option value="7272" />
-            </endOffsets>
-          </properties>
+          <properties documentPath="$PROJECT_DIR$/ClassLibrary1/DisplayNumbersLibrarySpecs.cs" initialLine="185" />
           <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/DisplayNumbersLibrary/DisplayNumbersWithCustomOptionsTask.cs</url>
-          <line>38</line>
-          <properties documentPath="$PROJECT_DIR$/DisplayNumbersLibrary/DisplayNumbersWithCustomOptionsTask.cs" initialLine="38">
+          <line>18</line>
+          <properties documentPath="$PROJECT_DIR$/DisplayNumbersLibrary/DisplayNumbersWithCustomOptionsTask.cs" initialLine="17">
             <startOffsets>
-              <option value="1137" />
+              <option value="631" />
             </startOffsets>
             <endOffsets>
-              <option value="1159" />
+              <option value="632" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="50" />
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/DisplayNumbersLibrary/DisplayNumbersWithCustomOptionsTask.cs</url>
+          <line>19</line>
+          <properties documentPath="$PROJECT_DIR$/DisplayNumbersLibrary/DisplayNumbersWithCustomOptionsTask.cs" initialLine="28">
+            <startOffsets>
+              <option value="645" />
+            </startOffsets>
+            <endOffsets>
+              <option value="665" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/TestDisplayNumbersLibrary/DisplayNumbersLibrarySpecs.cs</url>
+          <line>77</line>
+          <properties documentPath="$PROJECT_DIR$/TestDisplayNumbersLibrary/DisplayNumbersLibrarySpecs.cs" initialLine="85">
+            <startOffsets>
+              <option value="2577" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2578" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/TestDisplayNumbersLibrary/DisplayNumbersLibrarySpecs.cs</url>
+          <line>82</line>
+          <properties documentPath="$PROJECT_DIR$/TestDisplayNumbersLibrary/DisplayNumbersLibrarySpecs.cs" initialLine="91">
+            <startOffsets>
+              <option value="2870" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2871" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="59" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

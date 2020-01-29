@@ -1,17 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rosalind\\source\\repos\\DisplayNumbers\\ClassLibrary1\\Tests.csproj": {}
+    "C:\\dev\\DisplayNumbersLibrary\\DisplayNumbers\\TestDisplayNumbersLibrary\\Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rosalind\\source\\repos\\DisplayNumbers\\ClassLibrary1\\Tests.csproj": {
+    "C:\\dev\\DisplayNumbersLibrary\\DisplayNumbers\\DisplayNumbersLibrary\\DisplayNumbersLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rosalind\\source\\repos\\DisplayNumbers\\ClassLibrary1\\Tests.csproj",
+        "projectUniqueName": "C:\\dev\\DisplayNumbersLibrary\\DisplayNumbers\\DisplayNumbersLibrary\\DisplayNumbersLibrary.csproj",
+        "projectName": "DisplayNumbersLibrary",
+        "projectPath": "C:\\dev\\DisplayNumbersLibrary\\DisplayNumbers\\DisplayNumbersLibrary\\DisplayNumbersLibrary.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\dev\\DisplayNumbersLibrary\\DisplayNumbers\\TestDisplayNumbersLibrary\\Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\DisplayNumbersLibrary\\DisplayNumbers\\TestDisplayNumbersLibrary\\Tests.csproj",
         "projectName": "Tests",
-        "projectPath": "C:\\Users\\Rosalind\\source\\repos\\DisplayNumbers\\ClassLibrary1\\Tests.csproj",
+        "projectPath": "C:\\dev\\DisplayNumbersLibrary\\DisplayNumbers\\TestDisplayNumbersLibrary\\Tests.csproj",
         "packagesPath": "C:\\Users\\Rosalind\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rosalind\\source\\repos\\DisplayNumbers\\ClassLibrary1\\obj\\",
+        "outputPath": "C:\\dev\\DisplayNumbersLibrary\\DisplayNumbers\\TestDisplayNumbersLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -28,8 +39,8 @@
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "C:\\Users\\Rosalind\\source\\repos\\DisplayNumbers\\DisplayNumbersLibrary\\DisplayNumbersLibrary.csproj": {
-                "projectPath": "C:\\Users\\Rosalind\\source\\repos\\DisplayNumbers\\DisplayNumbersLibrary\\DisplayNumbersLibrary.csproj"
+              "C:\\dev\\DisplayNumbersLibrary\\DisplayNumbers\\DisplayNumbersLibrary\\DisplayNumbersLibrary.csproj": {
+                "projectPath": "C:\\dev\\DisplayNumbersLibrary\\DisplayNumbers\\DisplayNumbersLibrary\\DisplayNumbersLibrary.csproj"
               }
             }
           }
@@ -59,17 +70,6 @@
         "win-x86": {
           "#import": []
         }
-      }
-    },
-    "C:\\Users\\Rosalind\\source\\repos\\DisplayNumbers\\DisplayNumbersLibrary\\DisplayNumbersLibrary.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Rosalind\\source\\repos\\DisplayNumbers\\DisplayNumbersLibrary\\DisplayNumbersLibrary.csproj",
-        "projectName": "DisplayNumbersLibrary",
-        "projectPath": "C:\\Users\\Rosalind\\source\\repos\\DisplayNumbers\\DisplayNumbersLibrary\\DisplayNumbersLibrary.csproj"
-      },
-      "frameworks": {
-        "net472": {}
       }
     }
   }

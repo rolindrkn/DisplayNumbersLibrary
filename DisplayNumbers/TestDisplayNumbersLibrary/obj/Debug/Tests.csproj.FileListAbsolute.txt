@@ -9,3 +9,14 @@ C:\Users\Rosalind\source\repos\DisplayNumbers\ClassLibrary1\obj\Debug\Tests.cspr
 C:\Users\Rosalind\source\repos\DisplayNumbers\ClassLibrary1\obj\Debug\Tests.csproj.CopyComplete
 C:\Users\Rosalind\source\repos\DisplayNumbers\ClassLibrary1\obj\Debug\ClassLibrary1.dll
 C:\Users\Rosalind\source\repos\DisplayNumbers\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\dev\DisplayNumbersLibrary\DisplayNumbers\TestDisplayNumbersLibrary\bin\Debug\ClassLibrary1.dll
+C:\dev\DisplayNumbersLibrary\DisplayNumbers\TestDisplayNumbersLibrary\bin\Debug\ClassLibrary1.pdb
+C:\dev\DisplayNumbersLibrary\DisplayNumbers\TestDisplayNumbersLibrary\bin\Debug\nunit.framework.dll
+C:\dev\DisplayNumbersLibrary\DisplayNumbers\TestDisplayNumbersLibrary\bin\Debug\nunit.framework.pdb
+C:\dev\DisplayNumbersLibrary\DisplayNumbers\TestDisplayNumbersLibrary\bin\Debug\Rhino.Mocks.dll
+C:\dev\DisplayNumbersLibrary\DisplayNumbers\TestDisplayNumbersLibrary\bin\Debug\DisplayNumbersLibrary.dll
+C:\dev\DisplayNumbersLibrary\DisplayNumbers\TestDisplayNumbersLibrary\bin\Debug\DisplayNumbersLibrary.pdb
+C:\dev\DisplayNumbersLibrary\DisplayNumbers\TestDisplayNumbersLibrary\obj\Debug\Tests.csprojAssemblyReference.cache
+C:\dev\DisplayNumbersLibrary\DisplayNumbers\TestDisplayNumbersLibrary\obj\Debug\Tests.csproj.CopyComplete
+C:\dev\DisplayNumbersLibrary\DisplayNumbers\TestDisplayNumbersLibrary\obj\Debug\ClassLibrary1.dll
+C:\dev\DisplayNumbersLibrary\DisplayNumbers\TestDisplayNumbersLibrary\obj\Debug\ClassLibrary1.pdb

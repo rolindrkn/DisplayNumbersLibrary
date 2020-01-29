@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DisplayNumbers.cs" />
+    <Compile Include="DisplayNumbersLibrary.cs" />
     <Compile Include="DisplayNumbersWithCustomOptionsTask.cs" />
     <Compile Include="DisplayNumbersWithDefaultOptionsTask.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
