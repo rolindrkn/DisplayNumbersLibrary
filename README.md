@@ -20,7 +20,7 @@ returns a list of string based on which **IDisplayNumbersTask** was passed in th
 #### WriteToConsole(int upperBound, Dictionary<int, string> customOptions = null)
 prints the list of string from GetList to console
 
-#Difficulty when writing the program
+# Difficulty when writing the program
 Part of the assignment requires that the Max int value supported by .NET is passed in: **2,147,483,647**. However, during testing, I ran received an error: `System.OutOfMemoryException: Array dimensions exceeded supported range`.
 
 - .NET has been configured to allow only a maximum of **2GB** per object. Since the list to be return will hold pointers to strings, and each pointer takes up 4 bytes and 8 bytes for 32bit and 64bits system, respectively.
